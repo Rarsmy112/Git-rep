@@ -1,0 +1,33 @@
+<html>
+ 
+<head>
+<<<<<<< HEAD
+    <title>Learn HTML Basics</title>
+</head>
+ 
+<body>
+    <h1>Learn HTML Beginners</h1>
+	<p>Hello!</p>
+=======
+    <title>Learn HTML Advance</title>
+</head>
+ 
+<body>
+    <h1>Learn HTML Advance</h1>
+	<p>Welcome!</p>
+>>>>>>> 25cf0fe (Adding changes for trouble branch before rebase conflict)
+     
+<p> A Computer Science portal for geeks<br>
+        A Computer Science portal for geeks<br>
+        A Computer Science portal for geeks<br>
+    </p>
+	<footer id="copyright">
+<<<<<<< HEAD
+	 &copy; Git orchard 2022, All rights reserved
+=======
+	&copy; Git 2022
+>>>>>>> 25cf0fe (Adding changes for trouble branch before rebase conflict)
+	</footer>
+</body>
+ 
+</html>
